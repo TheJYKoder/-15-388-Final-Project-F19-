@@ -5,7 +5,7 @@ Manuel Blum,Bruce Nelson University Professor of Computer Science,MCS,Mathematic
 Tom Bohman,"Alexander M. Knaster Professor, Department Head",MCS,Mathematical Sciences
 Boris Bukh,Associate Professor,MCS,Mathematical Sciences
 Clinton Conley,Associate Professor,MCS,Mathematical Sciences
-Gérard P. Cornuéjols,IBM University Professor of Operations Research,MCS,Mathematical Sciences
+Gerard Cornuejols,IBM University Professor of Operations Research,MCS,Mathematical Sciences
 James Cummings,Professor,MCS,Mathematical Sciences
 Irene Fonseca,"Kavčić-Moura University Professor of Mathematics, Director of Center for Nonlinear Analysis",MCS,Mathematical Sciences
 Florian Frick,Assistant Professor,MCS,Mathematical Sciences
@@ -19,7 +19,7 @@ Dmitry Kramkov,"Mellon College of Science Professor of Mathematical Finance, Dir
 Martin Larsson,Associate Professor,MCS,Mathematical Sciences
 John Lehoczky,Professor of Statistics and Mathematics,MCS,Mathematical Sciences
 Giovanni Leoni,Professor,MCS,Mathematical Sciences
-"Po-Shen Loh",Associate Professor,MCS,Mathematical Sciences
+"Po-Shen Loh",Associate Professor,MCS,Mathematical Sciences
 Johannes Muhle-Karbe,Associate Professor,MCS,Mathematical Sciences
 Wesley Pegden,Associate Professor,MCS,Mathematical Sciences
 Robert Pego,Professor,MCS,Mathematical Sciences
@@ -37,7 +37,7 @@ Tomasz Tkocz,Assistant Professor,MCS,Mathematical Sciences
 Noel Walkington,Professor,MCS,Mathematical Sciences
 Franziska Weber,Assistant Professor,MCS,Mathematical Sciences
 Deborah Brandon,Associate Teaching Professor,MCS,Mathematical Sciences
-Tim Flaherty,Associate Teaching Professor,MCS,Mathematical Sciences
+Timothy Flaherty,Associate Teaching Professor,MCS,Mathematical Sciences
 Irina Gheorghiciuc,Associate Teaching Professor,MCS,Mathematical Sciences
 David Handron,Associate Teaching Professor,MCS,Mathematical Sciences
 Jason Howell,"Associate Teaching Professor, Director of Undergraduate Studies",MCS,Mathematical Sciences
@@ -101,7 +101,8 @@ Tina Kahniashvili,Associate Research Professor,MCS,Physics
 Jyoti Katoch,Assistant Professor,MCS,Physics
 Sergey Koposov,Assistant Professor,MCS,Physics
 Mathias Losche,Professor,MCS,Physics
-"Barry Luokkala",Teaching Professor,MCS,Physics
+"Barry Luokkala
+",Teaching Professor,MCS,Physics
 Sara Majetich,Professor,MCS,Physics
 Rachel Mandelbaum,Professor,MCS,Physics
 Noa Marom,Courtesy Professor,MCS,Physics
