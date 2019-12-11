@@ -58,30 +58,29 @@
 82134
 82137
 82141
-82142	Elementary Spanish II
-82143	Elementary Spanish I Online
-82144	Elementary Spanish II Online
-82161	Elementary Italian I
-82162	Elementary Italian II
-82171	Elementary Japanese I
-82172	Elementary Japanese II
-82173	Introduction to Japanese 1
-82172	Introduction to Japanese II
-82172	Elementary Russian 1
-82191	Elementary Russian I
-82232	Intermediate Chinese II
-82271	Intermediate Japanese I
-82272	Intermediate Japanese II
-82273	Introduction to Japanese Language and Culture
-82278	Japanese File and Literature: The Art of Storytelling
-82279	Anime- Visual Interplay between Japan and the World 
-82283	Language Diversity & Cultural Identity 
-82305	French in it's Social Contexts
-82335	Chinese Culture Through Language and Folktales
-82371	Advanced Japanese I
-82372	Advanced Japanese II
+82142
+82143
+82144
+82161
+82162
+82171
+82172
+82173
+82172
+82191
+82232
+82271
+82272
+82273
+82278
+82279
+82283
+82305
+82335
+82371
+82372
 82399
-57149	Basic Harmony I
+57149
 57173
 57188	
 57341
